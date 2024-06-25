@@ -278,3 +278,6 @@ numArrays.forEach(subArray => {
  });
 
 console.log('Exercise 15 result:\n', total);
+
+
+
